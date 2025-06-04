@@ -29,3 +29,11 @@ module.export = fs;
 ES Modules is a modern module system that is built into the JavaScript language. ES Modules was created to solve the problem of managing dependencies in JavaScript projects, both on the client-side and server-side.
 
 > A more modern approach to Javascript module management.
+
+![image](https://github.com/user-attachments/assets/34a25ad5-da83-494f-b99c-468262fa9841)
+
+<br>
+
+You can learn a great things about it in this given link:  
+
+[Understanding CommonJS vs. ES Modules in JavaScript](https://www.syncfusion.com/blogs/post/js-commonjs-vs-es-modules)
